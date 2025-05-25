@@ -3,7 +3,7 @@
 The goal of this project is to analyze sales and financial data to generate actionable business insights that support strategic decision-making. By exploring key performance indicators (KPIs) such as revenue trends, profitability, customer behavior, and discount impacts, the dashboard enables stakeholders to identify growth opportunities, control expenses, and optimize financial performance.
 
 # 🛠️ Tool Used
-Microsoft Excel: For data cleaning, pivot tables, dynamic dashboard creation, financial formulas, and data visualization.
+**Microsoft Excel:** For data cleaning, pivot tables, dynamic dashboard creation, financial formulas, and data visualization.
 
 # 📈 Key Concepts Applied
 **Total Sales:** Measures total revenue from transactions.
